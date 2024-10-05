@@ -1,0 +1,1 @@
+import{g as e}from"./index.DjKJqAo0.js";const o=e.timeline();o.from("#hero-card",{y:-200,opacity:0,ease:"bounce.out",duration:1});o.from("#name",{x:200,opacity:0,ease:"power4",duration:1.4});o.from("#description",{x:200,opacity:0,ease:"power3",duration:1.4},"<");
